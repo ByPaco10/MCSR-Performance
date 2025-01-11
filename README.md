@@ -51,3 +51,31 @@ When talking about Minecraft Speedrunning hardware configuration we are looking 
 # Best Linux Config (X-org)
 
 # Best Linux Config (Wayland)
+
+# Resources and Sources
+
+### Information:
+
+https://github.com/integralfx/MemTestHelper
+
+https://www.youtube.com/@ActuallyHardcoreOverclocking
+
+https://www.youtube.com/@GamersNexus
+
+
+
+### Websites:
+
+https://www.overclockers.com/ddr5-overclocking-guide/
+
+### Resouces:
+
+https://memtest.org/
+
+https://www.aida64.com/downloads
+
+https://www.ocbase.com/
+
+https://zentimings.com/
+
+
