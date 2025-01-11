@@ -26,8 +26,8 @@ When talking about Minecraft Speedrunning hardware configuration we are looking 
 
 CPU:
 - AMD Ryzen 5 5500
-- AMD Ryzen 7 5700x
-- AMD Ryzen 9 5900x
+- AMD Ryzen 7 5700x (or non-x)
+- AMD Ryzen 9 5900x (or non-x)
 
 Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
