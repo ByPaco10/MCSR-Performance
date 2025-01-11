@@ -38,7 +38,22 @@ Motherboard:
 
 Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C) is recommended.
 
-RAM: Any kit will suffice. 16GB (2x8GB) absolute minimum. 32GB (2x16GB 3200MHz CL16 DDR4) recommended.
+Disk:
+- WD Blue SN580 1TB/2TB 4150MB/s (Mid-end)
+- WD Blue SN570 1TB/2TB 3500MB/s (Low-end)
+- Kingston NV3 1TB/2TB 6000MB/s (Mid-end)
+- Crucial P3 Plus 1TB/2TB 5000MB/s (Mid-end)
+- Crucial P3 1TB/2TB 3500MB/s (Low-end)
+- Sabrent Rocket 1TB/2TB (Extreme budget)
+- WD Green SN350 1TB/2TB (Extreme budget)
+
+While SSD Speed doesn't benefit the performance, it puts a hard-ceiling on it. I recommend a minimum of 3500mb/s. On Ryzen 9 Try to get a Mid-end SSD.
+
+Faxiang and Adata drives are NOT recommended (Quality control issues). As well as samsung 980/990 lineup (You need to update the firmware on these drives).
+
+RAM: 
+
+Any kit will suffice. 16GB (2x8GB) absolute minimum. 32GB (2x16GB 3200MHz CL16 DDR4) recommended.
 
 GPU: 
 - AMD Radeon RX 5700XT.
