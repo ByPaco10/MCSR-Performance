@@ -10,7 +10,7 @@ When you want the best performance out of your money usually we look at two CPU 
 
 We have no fear of recommending second-hand parts using platforms like ebay or jawa or even AliExpress, if you do not live in the United States adjust your platform of choice (For LATAM you can use Mercadolibre and for Spain, Wallapop).
 
-On AMD CPU's RAM latency is more important than speed (more on that on [Overclocking](#Overclock)).
+On AMD CPU's RAM latency is more important than speed (more on that on [Overclocking](#Overclock).
 
 When talking about Minecraft Speedrunning hardware configuration we are looking at a few important details on how to configure the build (and some are Linux-specific):
  - Powerful Gen4 m.2 SSD +3500MB/s recommended.
