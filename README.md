@@ -132,6 +132,8 @@ Feel free to open issues about new parts!
 
 [SkatterBencher Youtube Channel](https://www.youtube.com/@SkatterBencher)
 
+[Hardware Unboxed Youtube Channel](https://www.youtube.com/@Hardwareunboxed)
+
 [Ultimate Guide for everything](https://youtu.be/Ir8_vgbsTsM)
 
 [PSU tier-list](https://cultists.network/140/psu-tier-list/)
