@@ -25,10 +25,10 @@ When talking about Minecraft Speedrunning hardware configuration we are looking 
 ### AMD Config:
 
 CPU:
-- AMD Ryzen 5 5500
-- AMD Ryzen 7 5700x/5800x (or non-x)
-- AMD Ryzen 9 5900x (or non-x)
-- AMD Ryzen 9 5950x (If you actually manage to get in budget...)
+- AMD Ryzen 5 5500.
+- AMD Ryzen 7 5700x/5800x (or non-x).
+- AMD Ryzen 9 5900x (or non-x).
+- AMD Ryzen 9 5950x (If you actually manage to get in budget...).
 
 Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
@@ -40,13 +40,13 @@ Motherboard:
 Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C on Ryzen 9 3950x OC) is recommended.
 
 Disk:
-- WD Blue SN580 1TB/2TB 4150MB/s (Mid-end)
-- WD Blue SN570 1TB/2TB 3500MB/s (Low-end)
-- Kingston NV3 1TB/2TB 6000MB/s (Mid-end)
-- Crucial P3 Plus 1TB/2TB 5000MB/s (Mid-end)
-- Crucial P3 1TB/2TB 3500MB/s (Low-end)
-- Sabrent Rocket 1TB/2TB (Extreme budget)
-- WD Green SN350 1TB/2TB (Extreme budget)
+- WD Blue SN580 1TB/2TB 4150MB/s (Mid-end).
+- WD Blue SN570 1TB/2TB 3500MB/s (Low-end).
+- Kingston NV3 1TB/2TB 6000MB/s (Mid-end).
+- Crucial P3 Plus 1TB/2TB 5000MB/s (Mid-end).
+- Crucial P3 1TB/2TB 3500MB/s (Low-end).
+- Sabrent Rocket 1TB/2TB (Extreme budget).
+- WD Green SN350 1TB/2TB (Extreme budget).
 
 While SSD Speed doesn't benefit the performance, it puts a hard-ceiling on it. I recommend a minimum of 3500mb/s. On Ryzen 9 Try to get a Mid-end SSD.
 
@@ -57,10 +57,17 @@ RAM:
 Any kit will suffice. 16GB (2x8GB) absolute minimum. 32GB (2x16GB 3200MHz CL16 DDR4) recommended.
 
 GPU: 
+- Nvidia GTX 1650.
+- Nvidia GTX 1650 Super.
+- Nvidia GTX 1660.
+- Nvidia GTX 1660 Super.
+- AMD Radeon RX 5600XT.
+- Nvidia RTX 2060.
 - AMD Radeon RX 5700XT.
 - Intel Arc B580.
 - Nvidia RTX 3060 12GB.
 - AMD Radeon RX 6600XT.
+- Nvidia RTX 3060Ti.
 - AMD Radeon RX 6700XT.
 
 AMD GPU's have extremely weak encoding support and a [bad F3 pie chart](https://youtu.be/cbaUJWzXh18?si=Skky-MPVjeDGD_01) that make them hard to recommend. Only buy them if you don't mind low-streaming quality and the bad F3 pie chart.
