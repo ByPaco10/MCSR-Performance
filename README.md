@@ -28,6 +28,7 @@ CPU:
 - AMD Ryzen 5 5500
 - AMD Ryzen 7 5700x/5800x (or non-x)
 - AMD Ryzen 9 5900x (or non-x)
+- AMD Ryzen 9 5950x (If you actually manage to get in budget...)
 
 Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
