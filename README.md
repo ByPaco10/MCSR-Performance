@@ -62,6 +62,8 @@ GPU:
 - AMD Radeon RX 6600XT.
 - AMD Radeon RX 6700XT.
 
+AMD GPU's have extremely weak encoding support and a [bad F3 pie chart](https://youtu.be/cbaUJWzXh18?si=Skky-MPVjeDGD_01) that make them hard to recommend. Only buy them if you don't mind low-streaming quality and the bad F3 pie chart.
+
 Depends on budget, cards ordered by rasterization performance (Where last is the best) based on [Techpowerup relative performance chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889) and [Hardware Unboxed B580 Overhead Testing](https://youtu.be/00GmwHIJuJY?si=LPrTZA8G5Suzo9vH), if you also want to game on your machine go for higher tiers.
 
 PSU: 
