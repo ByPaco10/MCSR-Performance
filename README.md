@@ -36,7 +36,7 @@ Motherboard:
 - MSI B550 Gaming Plus.
 - MSI B550-A PRO.
 
-Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C) is recommended.
+Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C on Ryzen 9 3950x OC) is recommended.
 
 Disk:
 - WD Blue SN580 1TB/2TB 4150MB/s (Mid-end)
