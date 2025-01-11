@@ -38,7 +38,7 @@ Motherboard:
 
 Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C) is recommended.
 
-RAM: Any kit will suffice. 32GB (2x16GB 3200MHz CL16 DDR4) recommended.
+RAM: Any kit will suffice. 16GB (2x8GB) absolute minimum. 32GB (2x16GB 3200MHz CL16 DDR4) recommended.
 
 GPU: 
 - AMD Radeon RX 5700XT.
@@ -47,14 +47,14 @@ GPU:
 - AMD Radeon RX 6600XT.
 - AMD Radeon RX 6700XT.
 
-(Depends on budget, cards ordered by rasterization performance, if you also want to game on your machine go for higher tiers).
+Depends on budget, cards ordered by rasterization performance (Where last is the best), if you also want to game on your machine go for higher tiers.
 
 PSU: 
 - Tier A: Adata XPG Core Reactor (I and II), MSI MPG-A GF, Corsair RM 2019-2021 series.
 - Tier B: Cooler Master MWE Gold V2, Corsair CX-F RGB.
 - Tier C: ADATA XPG Pylon, MSI MAG A-BN, Corsair CX-M 2021 – CV 650/750W.
 
-Depends on budget, ordered by Tier on the [PSU tier-list](https://cultists.network/140/psu-tier-list/)).
+Depends on budget, ordered by Tier on the [PSU tier-list](https://cultists.network/140/psu-tier-list/). Do NOT use a power supply of tier D or lower.
 
 Case: 
 - Phanteks XT Pro Ultra (and XT Pro).
