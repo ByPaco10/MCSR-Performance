@@ -95,7 +95,7 @@ Thermal Paste:
 
 Cooler: Stock Cooler (Ryzen 5) Thermalright Peerless Assassin 120 (Ryzen 7 or 9)
 
-Feel free to open issues about new parts!
+Feel free to open PR about new parts and issues about problematic old ones!
 
 ### Intel Config:
 
