@@ -32,7 +32,7 @@ CPU:
 Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
 Motherboard: 
-- MSI B550M PRO-VDH WiFi.
+- MSI B550M PRO-VDH WiFi (budget, do not pair with ryzen 9). 
 - MSI B550 Gaming Plus.
 - MSI B550-A PRO.
 
