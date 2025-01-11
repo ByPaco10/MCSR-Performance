@@ -83,7 +83,7 @@ Thermal Paste:
 - Thermalright TF9.
 - Artic Mx-(any).
 
-Cooler: Stock Cooler (Ryzen 5 5500) Thermalright Peerless Assassin 120 (5700x/5900x)
+Cooler: Stock Cooler (Ryzen 5) Thermalright Peerless Assassin 120 (Ryzen 7 or 9)
 
 Feel free to open issues about new parts!
 
