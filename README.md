@@ -14,7 +14,7 @@ On AMD CPU's RAM latency is more important than speed (more on that on [Overcloc
 
 When talking about Minecraft Speedrunning hardware configuration we are looking at a few important details on how to configure the build (and some are Linux-specific):
  - Powerful Gen4 m.2 SSD +3500MB/s recommended.
- - Powerful CPU 6 core minimum, 8 recommended.
+ - Powerful CPU 6 core minimum, 8 recommended. This is the core of the build and will determine the overall performance on resetting.
  - GPU VRAM and performance does **not** matter.
  - AMD GPU on Linux is recommended.
  - Peripherals **DO** matter do not skimp on them! (High-end is way too much for MCSR, but do not buy a very cheap mouse+keyboard kit, membrane-keyboard, etc).
@@ -26,6 +26,10 @@ When talking about Minecraft Speedrunning hardware configuration we are looking 
 
 CPU:
 - AMD Ryzen 5 5500
+- AMD Ryzen 7 5700x
+- AMD Ryzen 9 5900x
+
+Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
 Motherboard: 
 - MSI B550M PRO-VDH WiFi.
@@ -64,7 +68,7 @@ Thermal Paste:
 - Thermalright TF9.
 - Artic Mx-(any).
 
-Cooler: Stock Cooler
+Cooler: Stock Cooler (Ryzen 5 5500) Thermalright Peerless Assassin 120 (5700x/5900x)
 
 Feel free to open issues about new parts!
 
