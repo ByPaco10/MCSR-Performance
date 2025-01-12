@@ -99,6 +99,19 @@ Feel free to open PR about new parts and issues about problematic old ones!
 
 ### Intel Config:
 
+CPU:
+- Intel i5 12600k.
+- Intel i7 12700k.
+- Intel i9 12900k.
+- Intel i7 13700k/14700k.
+
+  K suffix refers to overclockable chips
+  KF suffix refers to overclockable chips without graphics
+  F suffix refers to chips that are not overclockable and don't have graphics. These chips are usually slightly cheaper but are slightly slower than their K/KF counterparts
+  no suffix refers to chips that are not overclockable but closer to performance than the F suffix chip
+
+  All of these chips are good for the purposes of mcsr. Stores like Microcenter offer higher tier 12900k chips for 140 usd, 12700k chips for 108 usd,and more. These are through microcenter part bundles that include motherboard and ram.
+
 ## 1000USDS
 ### AMD Config:
 
