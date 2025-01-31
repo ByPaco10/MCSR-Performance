@@ -8,8 +8,8 @@ A comprehensive guide (software and hardware) to get absolute maximum performanc
      - [AMD](#AMD-Config)
      - [Intel](#Intel-Config)
   - [1000USDS](#1000USDS)
-     - [AMD](#AMD-Config)
-     - [Intel](#Intel-Config)
+     - [AMD](#AMD-Config-2)
+     - [Intel](#Intel-Config-2)
   - [Microcenter Bundles](#Microcenter-Combos-and-Deals)
  
 # Best Price-Performance PC Config
@@ -133,7 +133,7 @@ CPU:
   All of these chips are good for the purposes of mcsr. Stores like Microcenter offer higher tier 12900k chips for 140 usd, 12700k chips for 108 usd,and more. These are through microcenter part bundles that include motherboard and ram.
 
 ## 1000USDS (or more)
-### AMD Config:
+### AMD Config 2:
 
 CPU:
 - AMD Ryzen 7 7700x (or non-x).
@@ -248,7 +248,7 @@ Cooler: Thermalright Frozen Prism 360mm or Artic Liquid Freezer III 360mm/420mm.
 
 Feel free to open PR about new parts and issues about problematic old ones!
 
-### Intel Config:
+### Intel Config 2:
 
 ## Microcenter Combos and Deals
 
