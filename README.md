@@ -46,6 +46,8 @@ Motherboard:
 
 Any motherboard that does well on [Hardware Unboxed Testing](https://www.youtube.com/watch?v=JxczZChFaZI) (<80C on Ryzen 9 3950x OC) is recommended.
 
+If you get a motherboard that is not a 500 series chipset be wary of the compatibility of your CPU, you can check it [here](https://cpulist.com/am4-cpu-list-all-processors/) and on the motherboard manufacturer site.
+
 Disk:
 - Teamgroup MP44 1TB/2TB 7400MB/s (High-end)
 - WD Blue SN580 1TB/2TB 4150MB/s (Mid-end).
