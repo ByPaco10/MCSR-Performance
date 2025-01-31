@@ -304,7 +304,7 @@ I have no idea.
 
 [PSU tier-list](https://cultists.network/140/psu-tier-list/)
 
-[Techpowerup relative performance gpu chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889)
+[Techpowerup relative performance gpu chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216)
 
 ### Resouces (apps):
 
