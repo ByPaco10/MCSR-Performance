@@ -315,6 +315,8 @@ I have no idea.
 
 [Cinebench 2024](https://www.maxon.net/en/downloads/cinebench-2024-downloads)
 
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+
 #### Linux
 [Waywall](https://github.com/tesselslate/waywall)
 
