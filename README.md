@@ -296,6 +296,10 @@ I have no idea.
 
 [Hardware Unboxed Youtube Channel](https://www.youtube.com/@Hardwareunboxed)
 
+[techless Youtube Channel](https://www.youtube.com/@techlessYT)
+
+[Optimum Tech Youtube Channel](https://www.youtube.com/@optimumtech)
+
 [Ultimate Guide for everything](https://youtu.be/Ir8_vgbsTsM)
 
 [PSU tier-list](https://cultists.network/140/psu-tier-list/)
