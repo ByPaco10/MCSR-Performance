@@ -128,12 +128,12 @@ CPU:
 ### AMD Config:
 
 CPU:
-- Ryzen 7 7700x (or non-x).
-- Ryzen 9 7900x (or non-x).
-- Ryzen 9 7950x (If you somehow fit it into budget).
-- Ryzen 7 9700x.
-- Ryzen 9 9900x.
-- Ryzen 9 9950x (If you somehow fit it into budget).
+- AMD Ryzen 7 7700x (or non-x).
+- AMD Ryzen 9 7900x (or non-x).
+- AMD Ryzen 9 7950x (If you somehow fit it into budget).
+- AMD Ryzen 7 9700x.
+- AMD Ryzen 9 9900x.
+- AMD Ryzen 9 9950x (If you somehow fit it into budget).
 
 Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
 
