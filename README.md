@@ -1,4 +1,4 @@
-# MCSR-Performance
+# MCSR Performance
 A comprehensive guide (software and hardware) to get absolute maximum performance out of your PC for Minecraft Speedrunning (2025 rev 1.0)
 
 # Summary
