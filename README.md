@@ -244,7 +244,7 @@ Feel free to open PR about new parts and issues about problematic old ones!
 
 ## Microcenter Combos and Deals
 
-Microcenter (US Only) usually has some really good value combos and deals on their website and in person locations. If you are low on budget or you want the maximum penny try to get one of these:
+Microcenter (US Only) usually has some really good value combos and deals on their website and in person locations. If you are low on budget or you want the maximum value for your dollar try to get one of these:
 
 [Microcenter AMD Bundles](https://www.microcenter.com/site/content/bundle-and-save.aspx)
 
