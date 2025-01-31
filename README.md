@@ -266,8 +266,6 @@ I have no idea.
 
 # Azul Prime
 
-# Software Tricks
-
 # Best Windows Config
 
 # Best Linux Config (X-org)
