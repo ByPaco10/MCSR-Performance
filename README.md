@@ -135,7 +135,7 @@ CPU:
 - AMD Ryzen 9 9900x.
 - AMD Ryzen 9 9950x (If you somehow fit it into budget).
 
-Depends on your budget. Ryzen 9 is preferred, Ryzen 7 if you can is recommended.
+Depends on your budget. Ryzen 9 is preferred.
 
 Motherboard: 
 
