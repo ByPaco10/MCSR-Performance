@@ -139,7 +139,7 @@ Depends on your budget. Ryzen 9 is preferred.
 
 Motherboard: 
 
-**Be wary that 600 series motherboards only support ryzen 9000 with a BIOS update. If you buy one for a ryzen 9000 be sure your motherboard supports BIOS flashback.**
+**Be wary that 600 series motherboards only support ryzen 9000 with a BIOS update. If you buy one for a ryzen 9000 be sure your motherboard supports BIOS flashback. All motherboards in the list support BIOS flashback**
 
 If you want to overclock use a X670(E) for ryzen 7000 (except Asrock B650M-HDV/m.2) or 870(E) for 9000.
 
