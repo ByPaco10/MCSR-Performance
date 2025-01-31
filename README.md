@@ -2,8 +2,16 @@
 A comprehensive guide (software and hardware) to get absolute maximum performance out of your PC for Minecraft Speedrunning (2025 rev 1.0)
 
 # Summary
-
-
+- [Summary](#Summary)
+- [Best Price-Performance PC Config](#Best-Price-Performance-PC-Config)
+  - [600USDS](#600USDS)
+     - [AMD](#AMD-Config)
+     - [Intel](#Intel-Config)
+  - [1000USDS](#1000USDS)
+     - [AMD](#AMD-Config)
+     - [Intel](#Intel-Config)
+  - [Microcenter Bundles](#Microcenter-Combos-and-Deals)
+ 
 # Best Price-Performance PC Config
 
 When you want the best performance out of your money usually we look at two CPU platforms, Ryzen 5000 and Intel 12th gen. This is because the motherboards and CPUs are really cheap and Intel 13th and 14th gen have some hard stability concerns. We are targeting both a 1000USD budget and a 600USD budget, in the budget we do not include any peripherals.
