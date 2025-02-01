@@ -333,3 +333,8 @@ I have no idea.
 [Waywall](https://github.com/tesselslate/waywall)
 
 [Resetti](https://github.com/tesselslate/resetti)
+
+#### Both
+[PrismLauncher](https://prismlauncher.org/download/)
+
+[OBS Studio](https://obsproject.com/download)
