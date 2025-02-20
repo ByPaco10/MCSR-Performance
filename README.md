@@ -99,7 +99,7 @@ PSU:
 - Tier B: Cooler Master MWE Gold V2, Corsair CX-F RGB.
 - Tier C: ADATA XPG Pylon, MSI MAG A-BN, Corsair CX-M 2021 – CV 650/750W.
 
-Depends on budget, ordered by Tier on the [PSU tier-list](https://cultists.network/140/psu-tier-list/). Do NOT use a power supply of tier D or lower. This list is outdated and a revision would be appreciated, open a PR for new source suggestions.
+Depends on budget, ordered by Tier on the [PSU tier-list](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1973454078#gid=1973454078). Do NOT use a power supply of tier D or lower.
 
 Case: 
 - Phanteks XT Pro Ultra (and XT Pro).
@@ -228,7 +228,7 @@ PSU:
 - Tier A: Adata XPG Core Reactor (I and II), MSI MPG-A GF, Corsair RM 2019-2021 series.
 - Tier B: Cooler Master MWE Gold V2, Corsair CX-F RGB.
 
-Depends on budget, ordered by Tier on the [PSU tier-list](https://cultists.network/140/psu-tier-list/). Do NOT use a power supply of tier C or lower.
+Depends on budget, ordered by Tier on the [PSU tier-list](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1973454078#gid=1973454078). Do NOT use a power supply of tier C or lower.
 
 Case: 
 - Phanteks XT Pro Ultra (and XT Pro) (Low-end).
@@ -304,7 +304,7 @@ I have no idea.
 
 [Ultimate Guide for everything](https://youtu.be/Ir8_vgbsTsM)
 
-[PSU tier-list](https://cultists.network/140/psu-tier-list/)
+[PSU tier-list](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1973454078#gid=1973454078)
 
 [Techpowerup relative performance gpu chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216)
 
