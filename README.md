@@ -96,32 +96,58 @@ Depends on budget, cards ordered by rasterization performance (Where last is the
 
 PSU: 
 - Tier A: 
-1st player: NDGP series 
+1st player: NDGP series
+
 Adata: XPG Core Reactor & Cybercore & Fusion series
+
 Aerocool: Project 7
+
 Antec: HCG series
+
 Asrock: Phantom gaming & Taichi series
+
 Asus: (All, except TUF)
+
 be quiet!: Dark Power & Dark Power Pro & Straight Power & Pure Power 11FM/12FM
+
 Bitfenix: BFG Gold ATX 3.0 & Formula Gold & Whisper M
+
 Chieftec: PowerPlay & Atmos
+
 Cooler Master: V-series Vanguard (Except Gold v1) & X-Silent & XG
+
 Corsair: RM-x 2015-2024 (and shift) series & Corsair RM-i series & SF & TX-m & HX or HX-i & AX or AX-i
+
 Cougar: Polar & GX-F
+
 Deepcool: PQ-M & PX
+
 Enermax: MaxTytan & PlatiGemini & Revolution ATX 3.0 / D.F.
+
 EVGA: Supernova G2 & G2L & G3 & G6 & G7 & P2 & P6 & T2
+
 Fractal Design: ION, FSP Hydro G(T) Pro (all) & Hydro PTM (all) & Hydro Ti Pro
+
 Galax: Hall of Fame
+
 Gamdias: Helios P1, Lian Li Edge (all)
+
 Montech: Titan (all)
+
 MSI: MEG & MPG (all)
+
 NZXT: (All except C series Bronze)
+
 Phanteks: AMP (except GH) & Revolt (all)
+
 Razer: Katana Chroma
+
 Seasonic: Focus (except SFX models, SFX-L is fine) & Prime (all) & Syncro Connect & Vertex (all)
+
 Silverstone: HELA & Nightjar
+
 Superflower: Leadex (all except silver, Super Bronze Pro and Gold Up ATX 3.1GE 1000/1300w)
+
 Thermaltake: Toughpower iRGB Plus & GF & GF1 & GF2 & GF3 (except 1650w and GF3 A3) & PF1 (except Premium <=850w) & PF3, Vertroo GV (G5)
 
 - Tier B: Corsair RM 2019-2023 series, Corsair RM-e 2022-2025 series, Cooler Master MWE Gold V2, Corsair CX-F RGB.
