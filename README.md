@@ -95,8 +95,36 @@ AMD GPU's have extremely weak encoding support and a [bad F3 pie chart](https://
 Depends on budget, cards ordered by rasterization performance (Where last is the best) based on [Techpowerup relative performance chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889) and [Hardware Unboxed B580 Overhead Testing](https://youtu.be/00GmwHIJuJY?si=LPrTZA8G5Suzo9vH), if you also want to game on your machine go for higher tiers.
 
 PSU: 
-- Tier A: Adata XPG Core Reactor (I and II), MSI MPG-A GF, Corsair RM 2019-2021 series.
-- Tier B: Cooler Master MWE Gold V2, Corsair CX-F RGB.
+- Tier A: 
+1st player: NDGP series 
+Adata: XPG Core Reactor & Cybercore & Fusion series
+Aerocool: Project 7
+Antec: HCG series
+Asrock: Phantom gaming & Taichi series
+Asus: (All, except TUF)
+be quiet!: Dark Power & Dark Power Pro & Straight Power & Pure Power 11FM/12FM
+Bitfenix: BFG Gold ATX 3.0 & Formula Gold & Whisper M
+Chieftec: PowerPlay & Atmos
+Cooler Master: V-series Vanguard (Except Gold v1) & X-Silent & XG
+Corsair: RM-x 2015-2024 (and shift) series & Corsair RM-i series & SF & TX-m & HX or HX-i & AX or AX-i
+Cougar: Polar & GX-F
+Deepcool: PQ-M & PX
+Enermax: MaxTytan & PlatiGemini & Revolution ATX 3.0 / D.F.
+EVGA: Supernova G2 & G2L & G3 & G6 & G7 & P2 & P6 & T2
+Fractal Design: ION, FSP Hydro G(T) Pro (all) & Hydro PTM (all) & Hydro Ti Pro
+Galax: Hall of Fame
+Gamdias: Helios P1, Lian Li Edge (all)
+Montech: Titan (all)
+MSI: MEG & MPG (all)
+NZXT: (All except C series Bronze)
+Phanteks: AMP (except GH) & Revolt (all)
+Razer: Katana Chroma
+Seasonic: Focus (except SFX models, SFX-L is fine) & Prime (all) & Syncro Connect & Vertex (all)
+Silverstone: HELA & Nightjar
+Superflower: Leadex (all except silver, Super Bronze Pro and Gold Up ATX 3.1GE 1000/1300w)
+Thermaltake: Toughpower iRGB Plus & GF & GF1 & GF2 & GF3 (except 1650w and GF3 A3) & PF1 (except Premium <=850w) & PF3, Vertroo GV (G5)
+
+- Tier B: Corsair RM 2019-2023 series, Corsair RM-e 2022-2025 series, Cooler Master MWE Gold V2, Corsair CX-F RGB.
 - Tier C: ADATA XPG Pylon, MSI MAG A-BN, Corsair CX-M 2021 – CV 650/750W.
 
 Depends on budget, ordered by Tier on the [PSU tier-list](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1973454078#gid=1973454078). Do NOT use a power supply of tier D or lower.
