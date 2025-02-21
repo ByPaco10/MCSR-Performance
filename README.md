@@ -108,13 +108,13 @@ Asrock: Phantom gaming & Taichi series
 
 Asus: (All, except TUF)
 
-be quiet!: Dark Power & Dark Power Pro & Straight Power & Pure Power 11FM/12FM
+be quiet!: Dark Power (all) & Dark Power Pro (all) & Straight Power (all) & Pure Power 11FM/12FM
 
 Bitfenix: BFG Gold ATX 3.0 & Formula Gold & Whisper M
 
-Chieftec: PowerPlay & Atmos
+Chieftec: PowerPlay (all) & Atmos
 
-Cooler Master: V-series Vanguard (Except Gold v1) & X-Silent & XG
+Cooler Master: V-series Vanguard (all Except Gold v1) & X-Silent & XG
 
 Corsair: RM-x 2015-2024 (and shift) series & Corsair RM-i series & SF & TX-m & HX or HX-i & AX or AX-i
 
@@ -150,7 +150,96 @@ Superflower: Leadex (all except silver, Super Bronze Pro and Gold Up ATX 3.1GE 1
 
 Thermaltake: Toughpower iRGB Plus & GF & GF1 & GF2 & GF3 (except 1650w and GF3 A3) & PF1 (except Premium <=850w) & PF3, Vertroo GV (G5)
 
-- Tier B: Corsair RM 2019-2023 series, Corsair RM-e 2022-2025 series, Cooler Master MWE Gold V2, Corsair CX-F RGB.
+- Tier B:
+
+1st player: Armour (AR Gold) & SFX (all) & Steampunk (SP)
+
+Abko: Tenergy (TN) Gold
+
+Adata: XPG Kyber (all)
+
+Aerocool: Integrator Gold
+
+Andyson: N & PX & R (all) & TX
+
+Antec: GSK ATX 3.1 & Neo Eco Gold (all except modular atx 3.0, that is tier A) 
+
+AsRock: Steel Legend
+
+Asus: TUF (all) & ROG Strix Platinum 1200w
+
+AZZA: PSAZ Platinum ATX 3.1 & Gold ATX 3.1
+
+be quiet!: Power Zone 2 & Pure Power 11 (NOT 300/350W MODEL) / 11CM / 11FM up to 750w & SFX-L Power & System Power 10 Gold
+
+Bitfenix: BFG (all except =>1000w that is tier A)
+
+Chieftec: Polaris (all) & PowerUp (all) & Vega (PPG-S)
+
+Cooler Master: G (all) & GX (all except CM Storm) & MWE Gold / Gold Modular & MWE V2 White (NOT 230V) / Bronze (NOT 230V) / all "golds" & MWE V3 (all except 230V Bronze) & Vanguard (V series) Gold V1 (all) / Platinum SFX ATX 3.0
+
+Corsair: RM (all) & RM-e (all) & CX-F RGB
+
+Cougar: GEX (all) & LLC
+
+DarkFlash: UpMost (UPT)
+
+DeepCool: Gamer Storm (all) & PM-D & PN-D & PN-M (all)
+
+Enermax: Revolution D.F. 2 & D.F. X (all)
+
+EVGA: G series (all except GD 2019 R1/V1) & SuperNOVA FTW / G+ (or) G1+ (all) / GA / GQ (>=850w) / GM / GT / P+ / P5 / PQ
+
+FSP: Vita (all)
+
+G.Skill: MB Gold
+
+Gamdias: Cyclops & Helios P1A (all) / P2 (all except 1300w that is tier A) 
+
+Gigabyte: Aorus AP-GM & Ultra Durable UD-GM 750w/850w
+
+Huntkey: MVP Gold (all)
+
+High Power: Performance (all) & Super GD+ (all)
+
+InWin: PF Gold & P Gold (650w/750w/850w)
+
+Kolink: Continuum V1 850w & Enclave
+
+Lian Li: SP 750w & PE 750w
+
+Montech: Century 550w/650w / G5 ATX 3.0 750w/850w
+
+MSI: MAG A-GL (all, including PCIe5)
+
+Phanteks: Revolt SFX (all) & AMP GH
+
+Raidmax: Monster 
+
+Redragon: PSU 013 / 015 & Master RGPS ATX 3.1 
+
+Rosewill: Quark & SMG (all) & Tokamak
+
+SAMA: Black Diamond (all) & Forza Titanium & XM
+
+Seasonic: Core (all) & Focus (SFX Models, SFX-L Tier A)
+
+Segotep: PM ATX 3.1
+
+Sharkoon: Rebel (all) & SilentStorm SFX Gold / Cool Zero
+
+SilverStone: Decathlon (all except DA Gold 750w/850w) & SFX SX Gold (new) / SX-LG / SX-G (NOT 600w model) / SX-PT & SFX-L SX-LTI & Strider ST-PT (all) / ST-PTS 1200w / SF-TI 600w/700w/800w & Viva Gold
+
+SuperFlower: Combat (all) & Legion GX Pro & Leadex III Super Bronze Pro
+
+Thermaltake: Toughpower Gold / Grand RGB (all) / GF A3 (all) / PF1 Premium 650w/750w/850w / SFX Platinum ATX 3.1 750w/850w
+
+Thermalright: TR TG FX 550w/650w
+
+Xigmatek: Fury GD & Harrier & Titan PT & Vector P
+
+Zalman: Acrux & Teramax II SE 750w/850w
+
 - Tier C: ADATA XPG Pylon, MSI MAG A-BN, Corsair CX-M 2021 – CV 650/750W.
 
 Depends on budget, ordered by Tier on the [PSU tier-list](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1973454078#gid=1973454078). Do NOT use a power supply of tier D or lower.
