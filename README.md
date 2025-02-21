@@ -107,7 +107,7 @@ Antec: HCG series
 
 Asrock: Phantom gaming & Taichi series
 
-Asus: (All, except TUF)
+Asus: (All, except TUF and ROG Strix Platinum 1200w)
 
 be quiet!: Dark Power (all) & Dark Power Pro (all) & Straight Power (all) & Pure Power 11FM/12FM
 
