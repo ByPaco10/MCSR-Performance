@@ -95,7 +95,8 @@ AMD GPU's have extremely weak encoding support and a [bad F3 pie chart](https://
 Depends on budget, cards ordered by rasterization performance (Where last is the best) based on [Techpowerup relative performance chart](https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889) and [Hardware Unboxed B580 Overhead Testing](https://youtu.be/00GmwHIJuJY?si=LPrTZA8G5Suzo9vH), if you also want to game on your machine go for higher tiers.
 
 PSU: 
-- Tier A: 
+- Tier A:
+
 1st player: NDGP series
 
 Adata: XPG Core Reactor & Cybercore & Fusion series
